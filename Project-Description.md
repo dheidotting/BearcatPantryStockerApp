@@ -1,2 +1,2 @@
 # Project Description
-# Bearcat Pantry Stocker Application
+## Name - Bearcat Pantry Stocker Application
