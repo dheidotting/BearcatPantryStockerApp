@@ -8,4 +8,5 @@
 6. Develop an automated reporting system sent to admins every month. (Abhinav)
 7. Fix existing bugs in the checkout and orders page. (Derek)
 8. Secure the existing security issue on the back-end of the project with UCIT. (Derek)
-9. 
+9. Test with large dummy data for the admin page and reports. (Abhinav)
+10. Develop admin capability to send custom emails to students within the application. (Abhinav)
