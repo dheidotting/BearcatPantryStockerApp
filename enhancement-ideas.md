@@ -1,0 +1,2 @@
+- maybe a suggestions form for new inventory items?
+- general feedback form about user experience of the site
