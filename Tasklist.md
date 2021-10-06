@@ -10,3 +10,4 @@
 8. Secure the existing security issue on the back-end of the project with UCIT. (Derek)
 9. Test with large dummy data for the admin page and reports. (Abhinav)
 10. Develop admin capability to send custom emails to students within the application. (Abhinav)
+11. Refactor the front-end into a framework. (Abhinav)
