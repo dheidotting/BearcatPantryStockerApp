@@ -1,9 +1,8 @@
-# Table of Contents 
-# Bearcats Pantry Stocker Application
-## Team Members
+# Table of Contents - Bearcats Pantry Stocker Application
+1. Team Members and Abstract
 - Abhinav Garg, Computer Science, gargav@mail.uc.edu
 - Derek Heidotting, Computer Scienc, heidotda@mail.uc.edu
-## Project Topic Area
+
 The Bearcats Pantry is an on campus service that provides free food, hygiene products, cleaning supplies and professional clothing to students in need. 
 The goal is to help students that are struggling to meet financial needs for basic necessities that all students should have access to. 
 The Bearcats Pantry is a great service that needs to be more accessible to reach all students that may need it. Currently, volunteers at the pantry have to 
