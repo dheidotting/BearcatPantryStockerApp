@@ -1,2 +1,3 @@
-# Table of Contents - Bearcats Pantry Stocker Application
-1. Team Members and Abstract
+## Table of Contents - Bearcats Pantry Stocker Application
+1. [Team Members and Abstract](Project-Description.md)
+2. 
