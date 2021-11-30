@@ -2,8 +2,8 @@
 1. [Team Members and Abstract](Abstract.md)
 2. [Project Description](Project-Description.md)
 3. User Stories and Design Diagrams
-  1. [User Stories](User_Stories.md)
-  2. Design Diagrams
-    - [Level 0](Design_Diagrams/Design_D0.png)
-    - [Level 1](Design_Diagrams/Design_D1.png)
-    - [Level 2](Design_Diagrams/Design_D2.png)
+    - [User Stories](User_Stories.md)
+    - Design Diagrams
+      - [Level 0](Design_Diagrams/Design_D0.png)
+      - [Level 1](Design_Diagrams/Design_D1.png)
+      - [Level 2](Design_Diagrams/Design_D2.png)
