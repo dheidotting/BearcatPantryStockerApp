@@ -16,4 +16,9 @@
 6. Self-Assessment Essays
     - [Abhinav](https://docs.google.com/document/d/10Xg1EHgX2xaIeqB7i1UGuq_LpfgcBduE/edit?usp=sharing&ouid=117866352662729661371&rtpof=true&sd=true)
     - [Derek](https://docs.google.com/document/d/1tGxTnibqI3yGG5SQZBk3e_zP5is8Y81kbJ8S8MabWqU/edit?usp=sharing)
-
+7. Professional Biographies
+    - [Abhinav](professional_bio_garg.md)
+    - [Derek](professional_bio_heidotting.md)
+8. Budget - no expenses
+9. Appendix
+    - [Existing Code Repo](https://github.com/aew19/BearcatPantry)
