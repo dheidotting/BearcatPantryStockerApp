@@ -1,5 +1,5 @@
 # Table of Contents - Bearcats Pantry Stocker Application
-1. Team Members and Abstract
+##1. Team Members and Abstract
 - Abhinav Garg, Computer Science, gargav@mail.uc.edu
 - Derek Heidotting, Computer Scienc, heidotda@mail.uc.edu
 
