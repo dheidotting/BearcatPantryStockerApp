@@ -12,4 +12,8 @@
     - [Task List](Tasklist.md)
     - [Timeline](Documents/Milestones_Timeline_EffortMatrix.docx)
     - [Effort Matrix](Documents/Milestones_Timeline_EffortMatrix.docx)
-5. 
+5. [PowerPoint Presentation](Documents/Bearcats Pantry Stocker Application.pptx)
+6. Self-Assessment Essays
+    - [Abhinav](https://docs.google.com/document/d/10Xg1EHgX2xaIeqB7i1UGuq_LpfgcBduE/edit?usp=sharing&ouid=117866352662729661371&rtpof=true&sd=true)
+    - [Derek](https://docs.google.com/document/d/1tGxTnibqI3yGG5SQZBk3e_zP5is8Y81kbJ8S8MabWqU/edit?usp=sharing)
+
