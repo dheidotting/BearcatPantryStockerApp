@@ -1,3 +1,4 @@
+# Table of Contents 
 # Bearcats Pantry Stocker Application
 ## Team Members
 - Abhinav Garg, Computer Science, gargav@mail.uc.edu
