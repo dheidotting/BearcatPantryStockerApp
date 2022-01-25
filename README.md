@@ -22,3 +22,5 @@
 8. Budget - no expenses
 9. Appendix
     - [Existing Code Repo](https://github.com/aew19/BearcatPantry)
+10. Test Plan
+    - [Test Plan](Test%20Plan.docx)
