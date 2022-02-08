@@ -24,3 +24,6 @@
     - [Existing Code Repo](https://github.com/aew19/BearcatPantry)
 10. Test Plan
     - [Test Plan](Test%20Plan.docx)
+11. User Docs (written by Logan Lindsay, Ashley Wilhelm, Jake van Meter)
+    - [Users Guide](https://docs.google.com/document/d/1B6PnMysM8zgCI7nPotV8fTu7GO8bqVcCmGcDfK74l2Q/edit)
+    - [Developer Installation Guide](https://docs.google.com/document/d/1P0h8tjl0qB19sqSsCGC1MvVyxywsGNpAVf8OKjnIz0s/edit)
