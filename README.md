@@ -27,4 +27,4 @@
 11. User Docs (written by Logan Lindsay, Ashley Wilhelm, Jake van Meter)
     - [Users Guide](https://docs.google.com/document/d/1B6PnMysM8zgCI7nPotV8fTu7GO8bqVcCmGcDfK74l2Q/edit)
     - [Developer Installation Guide](https://docs.google.com/document/d/1P0h8tjl0qB19sqSsCGC1MvVyxywsGNpAVf8OKjnIz0s/edit)
-12.  [Project Presentation Slide Deck] (https://docs.google.com/presentation/d/1pl8XwdtKo7UVpt0YfIOARKbvLjebHXm8yywPbTNbKEY/edit#slide=id.p)
+12. [Project Presentation Slide Deck](https://docs.google.com/presentation/d/1pl8XwdtKo7UVpt0YfIOARKbvLjebHXm8yywPbTNbKEY/edit#slide=id.p)
